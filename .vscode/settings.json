@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "eslint.enable": false,
+    "codemetrics.basics.EnabledForJS": false,
+    "codemetrics.basics.EnabledForTS": true,
+    "codemetrics.basics.CodeLensHiddenUnder" : 7,
+    "editor.minimap.enabled": false
+}
